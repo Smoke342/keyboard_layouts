@@ -6,6 +6,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 RShift & CapsLock::CapsLock
 
 RAlt & SC029::Send ~  ; Через MSKLC символ не печатается, мешает этот скрипт
+RAlt & Backspace::Send {Blind}{RAlt Up}{Backspace}  ; Добавлено для удобства
 
 SC029::Send {}  ; `
 SC029 & SC017::Send {Blind}{SC029 Up}{Up}  ; i
