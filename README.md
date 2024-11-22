@@ -1,7 +1,7 @@
 # Общая схема раскладки
 ![schema](https://user-images.githubusercontent.com/127750149/232234760-65f0eabb-91cb-4278-903d-757cbd1f25d9.png)
 
-Клавиша смены языка настроена через программу [Mahou](https://github.com/BladeMight/Mahou)
+Клавиша смены языка настроена через программу [Mahou](https://gitea.com/BladeMight/Mahou)
 
 `CapsLock` переназначен на `Control` через программу [PowerToys](https://github.com/microsoft/PowerToys)
 
